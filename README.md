@@ -1,2 +1,2 @@
-# appdev-jovelyn-macahito
-First Github
+Jovelyn Macahito
+BSIT BLK B
